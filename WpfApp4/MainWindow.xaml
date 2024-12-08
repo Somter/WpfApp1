@@ -42,7 +42,7 @@
                 <ListBoxItem>10:25 Перерыв</ListBoxItem>
                 <ListBoxItem>10:35 Начало второй пары</ListBoxItem>
                 <ListBoxItem>12:00 Конец занятия</ListBoxItem>
-            </ListBox>
+            </ListBox>  
         </Grid>
     </Grid>
 </Window>
